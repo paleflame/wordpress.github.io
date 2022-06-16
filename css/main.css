@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+body {
+    min-width: 1280px;
+}
 /* roboto-100 - latin_cyrillic */
 
 div.container{
